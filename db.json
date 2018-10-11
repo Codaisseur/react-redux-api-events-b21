@@ -1,0 +1,42 @@
+{
+  "events": [
+    {
+      "id": 3,
+      "name": "Cat-cuddling world record",
+      "date": "09-09-2021",
+      "description": "Can we has cheaseburgerz?"
+    },
+    {
+      "id": 4,
+      "name": "Fake-sleep meetup",
+      "date": "01-02-2022",
+      "description": "This is a short, simple and meaningful meetup for people that casually like to fake-sleep."
+    },
+    {
+      "name": "Demo Day",
+      "date": "10-11-2018",
+      "description": "Yeah! Day",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 5,
+      "author": "Anna",
+      "body": "Men are simple things. They can survive a whole weekend with only three things: beer, boxer shorts and batteries for the remote control.",
+      "eventId": 3
+    },
+    {
+      "id": 9,
+      "author": "Yke",
+      "body": "If I roll once and you roll twice. What does that mean?",
+      "eventId": 3
+    },
+    {
+      "id": 11,
+      "author": "Zorita",
+      "body": "Sometimes I wonder if I really can. But then I think to myself, maybe I can't. But if I could, that would be good. Maybe it's all a lie?",
+      "eventId": 3
+    }
+  ]
+}
